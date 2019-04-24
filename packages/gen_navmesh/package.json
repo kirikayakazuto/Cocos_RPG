@@ -1,0 +1,14 @@
+{
+  "name": "gen_navmesh",
+  "version": "0.0.1",
+  "description": "A package for unpacking texture atlas created with TexturePacker.",
+  "author": "zilongshanren",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/gen_navmesh/gen": {
+      "message": "gen_navmesh:gen"
+    }
+  },
+  "name": "gen_navmesh",
+  "scene-script": "gen_navmesh.js"
+}
