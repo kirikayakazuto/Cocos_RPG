@@ -10,8 +10,8 @@ cc.Class({
 
     // use this for initialization
     onLoad: function () {
-        this.draw_node = new cc.DrawNode();
-        this.node.parent.getChildByName("debug")._sgNode.addChild(this.draw_node);
+        // this.draw_node = new cc.DrawNode();
+        // this.node.parent.getChildByName("debug")._sgNode.addChild(this.draw_node);
     },
 
     map_degbu_draw: function() {
