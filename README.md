@@ -1,5 +1,7 @@
 # COCOS CREATOR + TileMap 自动寻路
 
+视频链接: https://www.bilibili.com/video/av50328137
+
 
 1. 使用TileMap制作地图, 
 2. 将地图导入cocos creator中, 
